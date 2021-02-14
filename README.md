@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chunkeat99)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chunkeat99) <br>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=chunkeat99)](https://github.com/chunkeat99/github-contribution-stats/)
 <!--
 **chunkeat99/chunkeat99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
